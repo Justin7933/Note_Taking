@@ -1,2 +1,3 @@
 # Note_Taking
 Deployed Website: https://serene-eyrie-05057.herokuapp.com/notes <br>
+During this assigment I went forward and used the information given to us. From there I created a server.js file in order to build the server. Usually I would make seperate folders for my routes but for this assigment I kept it all together because there was not a lot of routes to begin with. By creating these routes and linking them to the server and website I was able to connect each html page and javascript which worked out very well. One hiccup I had was I am having trouble with linking the style.css to the notes.html page when I load the website in heroku.
